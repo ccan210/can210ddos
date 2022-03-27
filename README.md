@@ -1,3 +1,3 @@
-#chmod +x backdoorddos.py
+chmod +x can210dchmod +x can210ddos.py
 
-python backdoorddos.py https://www.site.com
+python can210ddos.py https://www.site.com
